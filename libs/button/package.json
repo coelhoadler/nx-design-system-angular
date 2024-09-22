@@ -1,6 +1,6 @@
 {
-  "name": "@angular-monorepo-ds/button",
-  "version": "0.0.1",
+  "name": "@angular-monorepo-ds/button-alura",
+  "version": "0.1.0",
   "peerDependencies": {
     "@angular/common": "^17.3.0",
     "@angular/core": "^17.3.0"
