@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { NxWelcomeComponent } from './nx-welcome.component';
-import { ButtonComponent } from '@angular-monorepo-ds/button';
+import { ButtonComponent } from '@angular-monorepo-ds-alura/button';
 
 @Component({
   standalone: true,

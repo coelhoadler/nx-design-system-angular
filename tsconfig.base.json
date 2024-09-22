@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@angular-monorepo-ds/button": ["libs/button/src/index.ts"],
+      "@angular-monorepo-ds-alura/button": ["libs/button/src/index.ts"],
       "@angular-monorepo-ds/ds-storybook": ["libs/storybook-host/src/index.ts"]
     }
   },
